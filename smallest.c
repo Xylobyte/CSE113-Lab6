@@ -1,3 +1,9 @@
+/**
+ * @file smallest.c
+ * @author Donovan Griego
+ * @brief Gets the smallest number that can be divided by each number from 1 to a max number
+ * @date 2020-10-22
+ */
 #include <stdio.h>
 #define MAX 20
 

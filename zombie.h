@@ -1,3 +1,10 @@
+/**
+ * @file zombie.h
+ * @author Donovan Griego
+ * @brief Header file for zombie.c
+ * @date 2020-10-22
+ */
+
 #ifndef ZOMBIE_H_
 #define ZOMBIE_H_
 #include <stdlib.h>

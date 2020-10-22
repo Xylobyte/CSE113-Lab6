@@ -1,3 +1,9 @@
+/**
+ * @file multiples.c
+ * @author Donovan Griego
+ * @brief Finds the sum of multiples of 3 or 5 below a max number
+ * @date 2020-10-22
+ */
 #include <stdio.h>
 #define MAX 1000
 

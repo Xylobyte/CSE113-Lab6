@@ -1,3 +1,9 @@
+/**
+ * @file sundays.c
+ * @author Donovan Griego
+ * @brief Finds the number of sundays that fell on the first of the month between a min and max year
+ * @date 2020-10-22
+ */
 #include <stdio.h>
 #define START 1901
 #define STOP 2000

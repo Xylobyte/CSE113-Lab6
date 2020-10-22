@@ -1,3 +1,9 @@
+/**
+ * @file lab6.c
+ * @author Donovan Griego
+ * @brief Makes use of zombie.c and zombie.h to create a zombie sighting log system
+ * @date 2020-10-22
+ */
 #include <stdio.h>
 #include "zombie.h"
 
