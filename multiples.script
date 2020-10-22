@@ -1,0 +1,8 @@
+Script started on 2020-10-22 16:23:12-06:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="168" LINES="14"]
+]0;dxgriego@Parallels: ~/cse113/lab6[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab6[00m$ gcc -g -Wall multiples.c -o multiples
+]0;dxgriego@Parallels: ~/cse113/lab6[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab6[00m$ ./multiples 
+The sum of multiples of 3 or 5 below 1000: 233168
+]0;dxgriego@Parallels: ~/cse113/lab6[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab6[00m$ exit
+exit
+
+Script done on 2020-10-22 16:23:26-06:00 [COMMAND_EXIT_CODE="0"]
